@@ -46,3 +46,8 @@ this is an account protected page where user have to log in acces it
 #running app
 
 *hosted on githubpages https://kiamakelvinsmalls.github.io/.
+
+#author 
+   *kelvin kiama njuguan
+   
+   *github repository url https://github.com/kiamakelvinsmalls/kiamakelvinsmalls.github.io
